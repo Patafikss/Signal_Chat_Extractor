@@ -4,7 +4,7 @@ Extracts chat messages from signal
 ### Usage:
 4) WIN+R and paste  
    `cp %HOMEPATH%\AppData\Roaming\Signal\sql\db.sqlite %HOMEPATH%\AppData\Roaming\Signal\sql\db_unencrypted.sqlite`
-5) Download ![DB Browser for SQLite]{https://sqlitebrowser.org/dl/}
+5) Download ![DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 6) Choose zip (64-bit or 32-bit, whatever runs on your machine) 
 7) unzip it
 8) go in and run DB Browser for SQLCipher
